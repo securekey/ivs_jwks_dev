@@ -1,13 +1,24 @@
 {
-  "keys": [
-    {
-      "kty": "EC",
-      "use": "enc",
-      "crv": "P-256",
-      "kid": "testkeyid",
-      "x": "_Wf_UoCzT961PxB2a-17gRANe7YcWUUxEK-gqWvz5WY",
-      "y": "9c0PHsr3EW79SQQka3u3XYi-kSql0npi0a31SodoblQ",
-      "alg": "ECDH-ES"
-    }
-  ]
+  "jwks": {
+    "keys": [
+      {
+        "kty": "EC",
+        "use": "enc",
+        "crv": "P-256",
+        "kid": "sdktestkid1",
+        "x": "rRHDw8-C-NHf-g1FyNZqxZtz7dDwpUUV_eih-HowBLg",
+        "y": "mwFkse3p_t1Rke9gssS_hoZk7m-yOxlfPNgbalvcRwo",
+        "alg": "ECDH-ES"
+      },
+      {
+        "kty": "EC",
+        "use": "enc",
+        "crv": "P-256",
+        "kid": "sdktestkid2",
+        "x": "_V35N4H616cXOazh-C8hZ6FOSreg_Wvg1BRRrH2RLaw",
+        "y": "2Gllp9MAOV_Wv6s1BUPyqk0ZPlwd0CiXCKhcxVKheNc",
+        "alg": "ECDH-ES"
+      }
+    ]
+  }
 }
