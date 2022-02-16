@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "use": "enc",
+      "crv": "P-256",
+      "kid": "testkeyid",
+      "x": "_Wf_UoCzT961PxB2a-17gRANe7YcWUUxEK-gqWvz5WY",
+      "y": "9c0PHsr3EW79SQQka3u3XYi-kSql0npi0a31SodoblQ",
+      "alg": "ECDH-ES"
+    }
+  ]
+}
